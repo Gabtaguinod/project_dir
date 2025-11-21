@@ -11,5 +11,6 @@ printf("Age:  %d\n", age);
 printf("Height: %.1f\n", height);
 
 printf("dev branch changes");
+printf("sample for merging");
 return 0;
 }
