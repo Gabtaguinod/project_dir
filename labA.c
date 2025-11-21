@@ -39,10 +39,7 @@ int main(void) {
         printf("%d is odd.\n", num);
     }
 
-    printf("ForPulling");
-    printf("PULLING");
-    printf("ADDING");
-    printf("ADDING");
+   printf("BRANCHES");
     
 
     return 0;
