@@ -40,5 +40,6 @@ int main(void) {
     }
 
     printf("ForPulling");
+    printf("PULLING");
 
     return 0;
