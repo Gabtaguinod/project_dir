@@ -41,5 +41,7 @@ int main(void) {
 
     printf("ForPulling");
     printf("PULLING");
+    printf("ADDING");
+    
 
     return 0;
